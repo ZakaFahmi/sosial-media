@@ -1,4 +1,4 @@
-
+#ini pengaturan htaccessnya
 RewriteEngine on
 RewriteCond %{request_filename} -f
 RewriteRule ^(.*) $1 [L]
