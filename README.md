@@ -1,5 +1,5 @@
-# sosial-media
-Selamat Datang di panduan menjalankan Situs Media Sosial.
+# snail code
+Selamat Datang di panduan menjalankan Situs snail-code.
 Disini saya akan menjelaskan tentang langkah-langkah membuat situs media sosial sendiri
 
 ==================================================
@@ -18,7 +18,7 @@ Disini saya akan menjelaskan tentang langkah-langkah membuat situs media sosial 
 
 7. Klik Kirim, lalu buka localhost/media-sosial pada browser.
 
-Selamat.. kamu sudah memiliki situs media sosial sendiri.. Sliahkan kelola sebaik mungkin.
+Selamat.. kamu sudah memiliki situs snail-code sendiri.. Sliahkan kelola sebaik mungkin.
 
 =====================================================
 
