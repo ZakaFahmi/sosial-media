@@ -48,3 +48,7 @@ Untuk mengonlinekan web, silahkan daftarkan file ke hosting. Info lengkap, kamu 
 
 TERIMA KASIH!! SELAMAT BEKERJA!!!
 ...
+
+
+![sosial media](https://user-images.githubusercontent.com/51282976/105113444-8a618180-5af7-11eb-8dad-8d6ec2ace48f.png)
+
