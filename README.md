@@ -44,7 +44,7 @@ password: admin
 
 Untuk mengonlinekan web, silahkan daftarkan file ke hosting. Info lengkap, kamu bisa cari di google dengan keyword 'cara upload data web ke idhostinger'
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=
 
 TERIMA KASIH!! SELAMAT BEKERJA!!!
 ...
