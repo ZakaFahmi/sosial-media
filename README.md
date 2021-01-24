@@ -2,7 +2,7 @@
 Selamat Datang di panduan menjalankan Situs snail-code.
 Disini saya akan menjelaskan tentang langkah-langkah membuat situs media sosial sendiri
 
-==================================================
+========================================================================================
 
 1. Pastikan kamu sudah mendownload Apache Xampp di www.apachefriends.org
 
@@ -20,7 +20,7 @@ Disini saya akan menjelaskan tentang langkah-langkah membuat situs media sosial 
 
 Selamat.. kamu sudah memiliki situs snail-code sendiri.. Sliahkan kelola sebaik mungkin.
 
-=====================================================
+=========================================================================================
 
 Untuk masuk ke situs media sosial sebagai admin,
 
@@ -40,7 +40,7 @@ Untuk masuk ke situs media sosial sebagai pengguna,
 username: admin
 password: admin
 
-===================================================
+=========================================================================================
 
 Untuk mengonlinekan web, silahkan daftarkan file ke hosting. Info lengkap, kamu bisa cari di google dengan keyword 'cara upload data web ke idhostinger'
 
