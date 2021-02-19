@@ -1,4 +1,4 @@
-# snail code
+# snail code untuk 
 Selamat Datang di panduan menjalankan Situs snail-code.
 Disini saya akan menjelaskan tentang langkah-langkah membuat situs media sosial sendiri
 
@@ -44,7 +44,7 @@ password: admin
 
 Untuk mengonlinekan web, silahkan daftarkan file ke hosting. Info lengkap, kamu bisa cari di google dengan keyword 'cara upload data web ke idhostinger'
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=
 
 TERIMA KASIH!! SELAMAT BEKERJA!!!
 ...
