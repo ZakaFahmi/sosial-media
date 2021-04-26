@@ -1,7 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 3.5.2.2
 -- http://www.phpmyadmin.net
---
 -- Inang: 127.0.0.1
 -- Versi Server: 5.5.27
 -- Versi PHP: 5.4.7
