@@ -3,7 +3,6 @@
 -- http://www.phpmyadmin.net
 --
 -- Inang: 127.0.0.1
--- Waktu pembuatan: 03 Apr 2016 pada 07.48
 -- Versi Server: 5.5.27
 -- Versi PHP: 5.4.7
 
