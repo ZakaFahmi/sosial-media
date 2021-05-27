@@ -2,7 +2,7 @@
 Selamat Datang di panduan menjalankan Situs snail-code.
 Disini saya akan menjelaskan tentang langkah-langkah membuat situs media sosial sendiri
 
-========================================================================================
+=========================================================================================
 
 1. Pastikan kamu sudah mendownload Apache Xampp di www.apachefriends.org
 
