@@ -1,6 +1,6 @@
 # cara menyambungkan web ke localhost.
 Selamat Datang di panduan menjalankan Situs snail-code.
-Disini saya akan menjelaskan tentang langkah-langkah membuat situs media sosial sendiri
+Disini saya akan menjelaskan tentang langkah-langkah membuat situs media sosial sendiri.
 
 =========================================================================================
 
