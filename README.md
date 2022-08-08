@@ -30,7 +30,7 @@ Untuk masuk ke situs media sosial sebagai admin,
 username: admin
 password: admin
 
-----------
+-----------------------------------------------------------------------------------------
 
 Untuk masuk ke situs media sosial sebagai pengguna,
 
